@@ -1,0 +1,10 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    font-family: "Gilroy";
+    /* background-color: red; */
+}
+
+h1 {
+    font-size: 5vmax;
+}
